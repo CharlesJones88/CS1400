@@ -1,0 +1,9 @@
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 04\Project 04\bin\Debug\Project 04.exe.config
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 04\Project 04\bin\Debug\Project 04.exe
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 04\Project 04\bin\Debug\Project 04.pdb
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 04\Project 04\obj\Debug\Project 04.csprojResolveAssemblyReference.cache
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 04\Project 04\obj\Debug\Project_04.MainForm.resources
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 04\Project 04\obj\Debug\Project_04.Properties.Resources.resources
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 04\Project 04\obj\Debug\Project 04.csproj.GenerateResource.Cache
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 04\Project 04\obj\Debug\Project 04.exe
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 04\Project 04\obj\Debug\Project 04.pdb
