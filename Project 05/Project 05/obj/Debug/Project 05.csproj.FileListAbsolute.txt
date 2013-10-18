@@ -1,0 +1,5 @@
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 05\Project 05\bin\Debug\Project 05.exe
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 05\Project 05\bin\Debug\Project 05.pdb
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 05\Project 05\obj\Debug\Project 05.csprojResolveAssemblyReference.cache
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 05\Project 05\obj\Debug\Project 05.exe
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Project 05\Project 05\obj\Debug\Project 05.pdb

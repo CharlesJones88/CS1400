@@ -1,0 +1,5 @@
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Lab 13\Lab 13\bin\Debug\Lab 13.exe
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Lab 13\Lab 13\bin\Debug\Lab 13.pdb
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Lab 13\Lab 13\obj\Debug\Lab 13.csprojResolveAssemblyReference.cache
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Lab 13\Lab 13\obj\Debug\Lab 13.exe
+C:\Users\charles\Documents\Visual Studio 2012\CS1400\Lab 13\Lab 13\obj\Debug\Lab 13.pdb
